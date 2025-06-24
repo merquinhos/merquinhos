@@ -4,19 +4,14 @@
 
 <h1 align="center">Hi there! I'm João Mercus</h1>
 
-<p align="center">
-  An Electrical Engineering student passionate about the fascinating world of electronics, embedded systems, and automation. 
-  Welcome to my GitHub space, where I share my academic projects and explorations at the intersection of engineering and code.
-</p>
-
----
 
 ### About Me ⚡
 
-<p>
-  Currently pursuing my degree in Electrical Engineering at Federal University of Campina Grande. 
-  I'm deeply interested in digital microelectronics. 
+<p align="center">
+
   There's a lot of code left to add here, I hope to be able to get it all together this year 
+  An Electrical Engineering student passionate about the fascinating world of electronics, embedded systems, and automation. 
+  Welcome to my GitHub space, where I share my academic projects and explorations at the intersection of engineering and code.
   My goal is to leverage programming to tackle complex engineering challenges and contribute to innovative solutions.
 </p>
 
