@@ -2,7 +2,7 @@
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3I3eXVkaHBjeW4wMGE3ajlpY3J0MnB6am1rZWFuYzRxNjYyc2t4diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/11lxCeKo6cHkJy/giphy.gif" alt="Electrical Engineering Student Banner" width="100"/> 
   </p>
 
-<h1 align="center">Hi there! 👋 I'm João Mercus</h1>
+<h1 align="center">Hi there! I'm João Mercus</h1>
 
 <p align="center">
   An Electrical Engineering student passionate about the fascinating world of electronics, embedded systems, and automation. 
@@ -14,16 +14,15 @@
 ### About Me ⚡
 
 <p>
-  Currently pursuing my degree in Electrical Engineering at [Your University/Institution]. 
-  I'm deeply interested in [mention 1-2 specific areas, e.g., circuit design, microcontrollers, power electronics, signal processing]. 
+  Currently pursuing my degree in Electrical Engineering at Federal University of Campina Grande. 
+  I'm deeply interested in digital microelectronics. 
+  There's a lot of code left to add here, I hope to be able to get it all together this year 
   My goal is to leverage programming to tackle complex engineering challenges and contribute to innovative solutions.
 </p>
 
 <ul>
   <li>🎓 Studying: Electrical Engineering at Federal University of Campina Grande</li>
-  <li>💡 Learning focus: [Specific topics or technologies you're currently focusing on, e.g., FPGA design, IoT, Control Systems, Renewable Energy]</li>
-  <li>⚙️ Gaining experience with: [Types of projects or systems you work with, e.g., embedded systems, PCB design, simulations, automation projects]</li>
-  <li>🤝 Open to: [Types of collaborations or learning opportunities you're interested in, e.g., open-source contributions, internships, hackathons]</li>
+  <li>💡 Learning focus: Circuit design FPGA design, IoT, Control Systems, embedded systems</li>
 </ul>
 
 ---
@@ -59,17 +58,17 @@ Here are some of the languages, tools, and concepts I'm learning and working wit
 
 ---
 
-### My Projects & Learning Journeys 💡
+### My Status 💡
 
 Here are some of my academic projects and personal explorations. Each one represents a step in my learning journey!
 
-* **[Project Name 1]** - [Brief description of the project, e.g., "A software-defined radio (SDR) project for FM demodulation using GNU Radio."].
-    * [Link to repository](https://github.com/your-username/project-name-1)
-    * [Link to report/documentation (if available)](https://link-to-report.com)
 
-* **[Project Name 2]** - [Brief description of the project, e.g., "FPGA implementation of a digital counter using Verilog."].
-    * [Link to repository](https://github.com/your-username/project-name-2)
-
+<div align="center">
+  <a href="https://github.com/merquinhos">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=merquinhos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  </a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=merquinhos&layout=compact&langs_count=10&theme=dracula"/>
+</div>
 ---
 
 ### Let's Connect! 💬
@@ -77,17 +76,15 @@ Here are some of my academic projects and personal explorations. Each one repres
 I'm always eager to connect with fellow engineers, learn from experienced professionals, and discuss new ideas. Feel free to reach out!
 
 <p align="center">
-  <a href="mailto:youremail@example.com">
+  <a href="mailto:joao.farias@ee.ufcg.edu.br">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
   <a href="https://www.linkedin.com/in/your-linkedin-profile/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://twitter.com/your-twitter-handle">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-  </a>
+
   </p>
 
 <p align="center">
-  Thanks for visiting my profile! May your circuits always be complete. 🔌
+  Thanks for visiting my profile!🔌
 </p>
