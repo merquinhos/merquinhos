@@ -60,9 +60,9 @@ Here are some of my academic projects and personal explorations. Each one repres
 
 <div align="center">
   <a href="https://github.com/merquinhos">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=merquinho&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=merquinhos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   </a>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=merquinho&layout=compact&langs_count=10&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=merquinhos&layout=compact&langs_count=10&theme=dracula"/>
 </div>
 ---
 
