@@ -9,7 +9,7 @@
 
 <p align="center">
 
-  There's a lot of code left to add here, I hope to be able to get it all together this year 
+  There's a lot of code left to add here, I hope to be able to get it all together this year.  
   An Electrical Engineering student passionate about the fascinating world of electronics, embedded systems, and automation. 
   Welcome to my GitHub space, where I share my academic projects and explorations at the intersection of engineering and code.
   My goal is to leverage programming to tackle complex engineering challenges and contribute to innovative solutions.
