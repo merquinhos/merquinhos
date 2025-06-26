@@ -17,7 +17,7 @@
 
 <ul>
   <li>🎓 Studying: Electrical Engineering at Federal University of Campina Grande</li>
-  <li>💡 Learning focus: Circuit design FPGA design, IoT, Control Systems, embedded systems</li>
+  <li>💡 Learning focus: Circuit design, FPGA design, IoT, Control Systems, embedded systems</li>
 </ul>
 
 ---
