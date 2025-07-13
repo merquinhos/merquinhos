@@ -2,7 +2,7 @@
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3I3eXVkaHBjeW4wMGE3ajlpY3J0MnB6am1rZWFuYzRxNjYyc2t4diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/11lxCeKo6cHkJy/giphy.gif" alt="Electrical Engineering Student Banner" width="100"/> 
   </p>
 
-<h1 align="center">Hi there! I'm João Mercus</h1>
+<h1 align="center">Hi ! I'm João Mercus</h1>
 
 
 ### About Me ⚡
