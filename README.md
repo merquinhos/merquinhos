@@ -51,6 +51,4 @@ I'm always eager to connect with fellow engineers, learn from experienced profes
 
   </p>
 
-<p align="center">
-  Thanks for visiting my profile!🔌
-</p>
+
