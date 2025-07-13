@@ -22,35 +22,7 @@
 
 ---
 
-### My Skills & Tools 🛠️
 
-Here are some of the languages, tools, and concepts I'm learning and working with in electrical engineering:
-
-* **Programming & Hardware Description Languages:**
-    <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-        <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
-        <img src="https://img.shields.io/badge/Verilog-E58E27?style=for-the-badge&logo=codereview&logoColor=white" alt="Verilog"/> 
-        </p>
-
-* **Design & Simulation Tools:**
-    <p>
-        <img src="https://img.shields.io/badge/GNU%20Radio-4A735E?style=for-the-badge&logo=gnuradio&logoColor=white" alt="GNU Radio"/> 
-        <img src="https://img.shields.io/badge/LTspice-000000?style=for-the-badge&logo=altiumdesigner&logoColor=white" alt="LTspice"/>
-        </p>
-
-* **Microcontrollers & Platforms:**
-    <p>
-        <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino"/>
-        </p>
-
-* **Version Control:**
-    <p>
-        <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-        <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-    </p>
-
----
 
 ### My Status 💡
 
