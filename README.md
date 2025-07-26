@@ -37,18 +37,5 @@ Here are some of my academic projects and personal explorations. Each one repres
 </div>
 ---
 
-### Let's Connect! 💬
-
-I'm always eager to connect with fellow engineers, learn from experienced professionals, and discuss new ideas. Feel free to reach out!
-
-<p align="center">
-  <a href="mailto:joao.farias@ee.ufcg.edu.br">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="https://www.linkedin.com/in/your-linkedin-profile/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-
-  </p>
 
 
